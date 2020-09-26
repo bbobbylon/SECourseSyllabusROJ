@@ -7,3 +7,5 @@ Be the only file that contains contact and project information
 Include your name, the project, and your Lewis email address
 Include credits for all non-original content or a statement indicating that all content is original
 Include clear and concise build and execute instructions including a list of required files
+
+image source https://joblist.mla.org/employer-details/785/lewis-university/
